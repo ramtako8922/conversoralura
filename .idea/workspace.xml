@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b773dd8b-cd44-46fc-a6b4-ed27a9e2769b" name="Changes" comment="project start">
+    <list default="true" id="b773dd8b-cd44-46fc-a6b4-ed27a9e2769b" name="Changes" comment="feat menu desplegable y operaciones funcionan parcialmente">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ui/InterfazUsuario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/servicios/Conversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servicios/Conversion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/servicios/Conversor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servicios/Conversor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +25,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="bf8cd8b5-35e5-4645-9cb0-b0e1895ed2fd" />
+        <option name="url" value="https://github.com/ramtako8922/conversoralura.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -78,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1696139184667</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat menu desplegable y operaciones funcionan parcialmente">
+      <created>1696187892550</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696187892550</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat menu desplegable y operaciones funcionan parcialmente">
+      <created>1696188098263</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696188098263</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,6 +116,13 @@
             <State>
               <option name="FILTERS">
                 <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
                   <entry key="user">
                     <value>
                       <list>
@@ -121,6 +155,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="project start" />
-    <option name="LAST_COMMIT_MESSAGE" value="project start" />
+    <MESSAGE value="feat menu desplegable y operaciones funcionan parcialmente" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat menu desplegable y operaciones funcionan parcialmente" />
   </component>
 </project>
